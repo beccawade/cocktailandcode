@@ -1,0 +1,227 @@
+
+.pagetitle{
+    color:white;
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+    font-size: 50px;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bodycopy{
+    text-align: centre;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(46, 36, 48);
+    padding: 50px;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.homepagebutton{
+    width: 1190px; 
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: grey;
+    text-align: center;
+    font-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.homepageimages{
+  flex: 33.33%;
+  padding: 5px;
+  width: 400px;
+}
+
+h2{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+SOPHIES CSS
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+   
+  }
+  
+.top {
+  background-color:#595959;
+  color: #ffffff;
+  list-style: none;
+ text-align: center;
+ padding: 5px 0 5px 0;
+ font-family: 'Josefin Sans', sans-serif;
+}
+
+.top > li {
+ display: inline-block;
+ padding-right: 50px;
+}
+
+.top > li > a {
+  text-decoration: none;
+  color: white;
+}
+
+.top > li > a:hover {
+  color: #c1c1c1;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.font{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  
+}
+
+.rumpic {
+  width: 100%;
+  height:500px;
+
+
+}
+
+.ingredients{
+  margin:1%;
+  background-color:#ffffff;
+}
+
+.grid {
+  border: 1px solid #838282;
+  width: 700px;
+  margin: 1%;
+  padding: 2%;
+  background-color: #838282;
+  color: #ffffff
+}
+
+#table {
+  border: 2px solid black;
+width: 100px;
+  margin: 1%;
+  float: right;
+  
+}
+
+#table td {
+  border: 3px solid #ddd;
+  padding: 10px;
+}
+
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: rgb(236, 154, 31);
+  color: white;
+}
+
+#examples {
+  width: 400px;
+  float: right;
+}
+
+.ginpic {
+    width: 100%;
+    height:600px;
+  
+  
+  }
+GEMMA 
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: grey;
+}
+
+
+  .ggeneral{
+        color:white;
+        text-align:center;
+        padding: 20px;
+        background-color:grey;
+        font-size:30px;
+        margin:0px;}
+
+
+.gtwitter {
+    color:white;
+    text-align:center;
+    padding: 20px;
+    background-color:rgb(46, 36, 48);
+    font-size:15px;
+    margin:0px;
+}
+
+.footertext{
+    text-align: center;
+    background-color: grey;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+INES 
+
+h1.white {
+    border-style: double;
+    border-color:lightgray;
+    border-width: 90px;
+    color: white;
+    background-color: darkgray;
+    padding: 20px;
+    font-size: xx-large;
+    font-family: 'Josefin Sans', sans-serif;
+    
+  
+  
+  
+  }
+  p.whitesmoke {
+    color: whitesmoke;
+    background-color:indigo;
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 190px;
+  border-color: lightslategray;
+  }
+  
+  
+  ol.lavendar {
+  color: lavender;
+  background-color: dimgray;
+  }
+  h2.dim {
+    color: lavender;
+    background-color: dimgray;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: small;
+  }
+  
+  p2.subscribe {
+     color: white;
+     border-style: double;
+     border-color: darkgrey;
+     border-width: 20px;
+     background-color: lightgrey;
+     font-size: x-large;
+     font-family: 'Josefin Sans', sans-serif;
+  
+  }
